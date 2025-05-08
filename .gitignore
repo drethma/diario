@@ -1,0 +1,9 @@
+# .gitignore
+*.db
+*.db-journal
+backups_diario/
+.streamlit/secrets.toml # Se você criou este arquivo antes
+__pycache__/
+*env/
+venv/
+.DS_Store
